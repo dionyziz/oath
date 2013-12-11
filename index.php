@@ -1,7 +1,8 @@
 <?php
     include 'header.php';
-    
+
     $langs = array(
+        'ar' => 'Arabic',
         'en' => 'English',
         'el' => 'Ελληνικά',
         'de' => 'Deutsch',
@@ -24,7 +25,11 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="keywords" content="oath,pledge,covenant,engineering,engineer,software,programmer,programming,hacker" />
         <meta name="description" content="The oath of a software engineer to respect knowledge, people, and ethics." />
-        <link type="text/css" rel="stylesheet" href="typography.css" />
+        <?php if ($lang == 'ar'){ ?>
+          <link type="text/css" rel="stylesheet" href="typography_rtl.css" />
+        <?php } else { ?>
+          <link type="text/css" rel="stylesheet" href="typography.css" />
+        <?php }; ?>
         <link rel="shortcut icon" href="script.png" />
     </head>
     <body>
@@ -37,26 +42,26 @@
             </p>
             <ul class="oath">
                 <?php foreach ( $_[ I_OATH ] as $covenant ): ?>
-                
+
                 <li><?= $covenant ?></li>
                 <?php endforeach; ?>
-                
+
             </ul>
             <p class="epilogue">
                 <?= $_[ I_EPILOGUE0 ] ?>
-                
+
             </p>
             <p class="epilogue">
                 <?= $_[ I_EPILOGUE1 ] ?>
-                
+
             </p>
-            
+
             <div class="footer">
                 <a class="cc" rel="license" href="https://creativecommons.org/licenses/by/3.0/" title="<?= $_[ I_CC ] ?>">
                     <img alt="<?= $_[ I_CC ] ?>" src="https://i.creativecommons.org/l/by/3.0/80x15.png" />
                 </a>
                 <ul><?php
-                    foreach ( $langs as $code => $language ): 
+                    foreach ( $langs as $code => $language ):
                         ?><li<?php
                         if ( $code == $lang ) {
                             ?> class="selected"<?php
