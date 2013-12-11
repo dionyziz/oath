@@ -8,23 +8,23 @@
                     
                     este juramento y este pacto',
         I_OATH  => array(
-            'RespetarÈ el *conocimiento* de la gente cuyos pasos sigo (y a aquellos que me enseÒen y ayuden, y compartirÈ de buena gana este conocimiento con los siguientes, asÌ como otros lo han compartido conmigo. RecordarÈ que
+            'Respetar√© el *conocimiento* de la gente cuyos pasos sigo (y a aquellos que me ense√±en y ayuden, y compartir√© de buena gana este conocimiento con los siguientes, as√≠ como otros lo han compartido conmigo. Recordar√© que
             el *conocimiento no debe permanecer en secreto* para aquellos con ganas de aprender.)',
-            'UtilizarÈ la tecnologÌa para el *bien* (y para el *progreso* de la humanidad, libre de todo mal, 
+            'Utilizar√© la tecnolog√≠a para el *bien* (y para el *progreso* de la humanidad, libre de todo mal, 
             para mejorar las vidas de las personas.)',
-            'No usarÈ mi conocimiento para provecho injusto (financiero o de otro tipo. No afirmarÈ que el uso de la tecnologÌa
-            es necesario cuando no lo es, sino sÛlo para solucionar problemas *reales*, libre de toda injusticia intencionada.)',
-            'RecordarÈ que la tecnologÌa siempre *mejora* (, y nunca dejarÈ de aprender, y el propÛsito de mi vida   
-            ser· una *automejora* continuada.)',
-            'RecordarÈ que hay *arte* en la ingenierÌa del software asÌ como tecnologÌa (, y que hay belleza en el cÛdigo. No
-            me olvidarÈ de que los programas deben ser escritos para que la *gente* los lea, y sÛlo ocasionalmente para que las m·quinas los ejecuten.)',
-            'RecordarÈ que los fundamentos de la tecnologÌa yacen en la *ciencia* (, y no olvidarÈ la contribuciÛn de los cientÌficos que apoyaron
-            mi arte; aquellos que desarrollaron las matem·ticas, fÌsica, quÌmica y la ciencia de la computaciÛn.)',
-            'No me avergonzarÈ de decir "No lo sÈ"(, ni dejarÈ de requerir a otro ingeniero si es necesario.)',
-            'Cuando por medio de la tecnologÌa obtenga acceso a datos privados, respetarÈ su *privacidad* (
-            y no abusarÈ de dicha informaciÛn obtenida.)',
-            'RecordarÈ como ingeniero que mi capacidad y poder conlleva una *obligaciÛn* (
-            de *crear* y mejorar la vida de mis congÈneres.)'
+            'No usar√© mi conocimiento para provecho injusto (financiero o de otro tipo. No afirmar√© que el uso de la tecnolog√≠a
+            es necesario cuando no lo es, sino s√≥lo para solucionar problemas *reales*, libre de toda injusticia intencionada.)',
+            'Recordar√© que la tecnolog√≠a siempre *mejora* (, y nunca dejar√© de aprender, y el prop√≥sito de mi vida   
+            ser√° una *automejora* continuada.)',
+            'Recordar√© que hay *arte* en la ingenier√≠a del software as√≠ como tecnolog√≠a (, y que hay belleza en el c√≥digo. No
+            me olvidar√© de que los programas deben ser escritos para que la *gente* los lea, y s√≥lo ocasionalmente para que las m√°quinas los ejecuten.)',
+            'Recordar√© que los fundamentos de la tecnolog√≠a yacen en la *ciencia* (, y no olvidar√© la contribuci√≥n de los cient√≠ficos que apoyaron
+            mi arte; aquellos que desarrollaron las matem√°ticas, f√≠sica, qu√≠mica y la ciencia de la computaci√≥n.)',
+            'No me avergonzar√© de decir "No lo s√©"(, ni dejar√© de requerir a otro ingeniero si es necesario.)',
+            'Cuando por medio de la tecnolog√≠a obtenga acceso a datos privados, respetar√© su *privacidad* (
+            y no abusar√© de dicha informaci√≥n obtenida.)',
+            'Recordar√© como ingeniero que mi capacidad y poder conlleva una *obligaci√≥n* (
+            de *crear* y mejorar la vida de mis cong√©neres.)'
         ),
         I_CC => 'Licencia Creative Commons',
         I_EPILOGUE0 => 'Si no incumplo este juramento,
@@ -34,9 +34,9 @@
                         sea *respetado* mientras vivo
                         
                         y recordado con *afecto* en adelante.',
-        I_EPILOGUE1 => 'Que act˙e para preservar las *mejores tradiciones* de mi vocaciÛn
+        I_EPILOGUE1 => 'Que act√∫e para preservar las *mejores tradiciones* de mi vocaci√≥n
         
-                        y que experimente el gozo de la *innovaciÛn*.
+                        y que experimente el gozo de la *innovaci√≥n*.
                         
                         Y que experimente el *gozo* de ofrecer a mi arte
                         
