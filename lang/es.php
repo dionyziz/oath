@@ -4,7 +4,7 @@
         I_SWEAR => 'Juro,',
         I_INTRO => 'cumplir de acuerdo a lo mejor
         
-                    de mi *habilidad* y *juicio*,
+                    de mi *capacidad* y *juicio*,
                     
                     este juramento y este pacto',
         I_OATH  => array(
