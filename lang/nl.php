@@ -8,7 +8,7 @@
                     
                     te vervullen',
         I_OATH  => array(
-            'I zal de *kennis* van de mensen in wiens voetsporen ik treed respecteren (en van hen die mij onderwijzen en helpen,
+            'Ik zal de *kennis* van de mensen in wiens voetsporen ik treed respecteren (en van hen die mij onderwijzen en helpen,
             en zal deze kennis delen met hen die mij volgen, als anderen met mij hebben gedeeld. Ik zal onthouden dat
             *kennis niet geheim moet worden gehouden* van hen die willen leren.)',
             'Ik zal technologie gebruiken voor *goed* (en voor de vooruitgang van de mensheid, vrij van kwaad, voor de verbetering
