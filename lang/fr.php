@@ -18,7 +18,7 @@
             de l\'humanité, libre de tout mal, pour l\'amélioration de la vie
             d\'autrui)',
             'Je n\'utiliserai pas mon savoir pour un profit injuste(, financier
-            ou d\'un autre genre. Je n\'affirmerai pas que l\'usage d\une
+            ou d\'un autre genre. Je n\'affirmerai pas que l\'usage d\'une
             technologie soit nécessaire si tel n\'est pas le cas, mais
             uniquement pour la résolution de problèmes *réels*, libre de toute
             injustice intentionnelle.)',
@@ -37,7 +37,7 @@
             sciences de l\'informatique.)',
             'Je n\'aurai aucune honte à affirmer "Point ne sais-je"(, ni
             n\'échouerai à quérir un autre ingénieur fût-ce-t-il besoin.)',
-            'Lorsque via la technologie j\'obtiens l\accès à des données
+            'Lorsque via la technologie j\'obtiens l\'accès à des données
             privées, je respecterai cette *vie privée*( et ne commettrai pas
             d\'abus avec les informations disponibles)',
             'Je garderai à l\'esprit en tant qu\'ingénieur qu\'avec mes
