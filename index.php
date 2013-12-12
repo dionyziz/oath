@@ -5,7 +5,13 @@
         'en' => 'English',
         'el' => 'Ελληνικά',
         'de' => 'Deutsch',
-        'sv' => 'Svenska'
+        'sv' => 'Svenska',
+        'it' => 'Italiano',
+        'ru' => 'Русский',
+        'nl' => 'Nederlands',
+        'fr' => 'Français',
+        'es' => 'Español',
+        'ar' => 'العربية'
     );
     $params = explode( '?', $_SERVER[ 'REQUEST_URI' ] );
     if ( isset( $params[ 1 ] ) && isset( $langs[ $params[ 1 ] ] ) ) {
@@ -18,7 +24,10 @@
 ?>
 <!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:fb="http://www.facebook.com/2008/fbml">
+      xmlns:fb="http://www.facebook.com/2008/fbml"
+      lang="<?php
+      echo $lang;
+      ?>">
     <head>
         <title><?= $_[ I_TITLE ] ?></title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -56,7 +65,7 @@
                     <img alt="<?= $_[ I_CC ] ?>" src="https://i.creativecommons.org/l/by/3.0/80x15.png" />
                 </a>
                 <ul><?php
-                    foreach ( $langs as $code => $language ): 
+                    foreach ( $langs as $code => $language ):
                         ?><li<?php
                         if ( $code == $lang ) {
                             ?> class="selected"<?php
