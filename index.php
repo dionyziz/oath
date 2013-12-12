@@ -33,11 +33,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="keywords" content="oath,pledge,covenant,engineering,engineer,software,programmer,programming,hacker" />
         <meta name="description" content="The oath of a software engineer to respect knowledge, people, and ethics." />
-        <?php if ($lang == 'ar'){ ?>
-          <link type="text/css" rel="stylesheet" href="typography_rtl.css" />
-        <?php } else { ?>
-          <link type="text/css" rel="stylesheet" href="typography.css" />
-        <?php }; ?>
+        <link type="text/css" rel="stylesheet" href="typography.css" />
+        <?php
+        if ( $lang == 'ar' ) {
+          ?><link type="text/css" rel="stylesheet" href="typography_rtl.css" /><?php
+        }
+        ?>
         <link rel="shortcut icon" href="script.png" />
     </head>
     <body>
