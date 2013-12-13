@@ -16,7 +16,7 @@
             is necessary when it is not, but only for the solution of *real* problems, free of all intentional injustice.)',
             'I will remember that technology always *improves*(, and will never stop learning, and the purpose of my life 
             will be continuous *self-improvement*.)',
-            'I will remember that there is *art* to software engineering as well as technology (, and that there is beauty in code. I
+            'I will remember that there is *art* to software engineering as well as technology(, and that there is beauty in code. I
             will not forget that programs must be written for *people* to read, and only incidentally for machines to execute.)',
             'I will remember that technology foundations lie in *science*(, and I will not forget the contribution of the scientists who supported
             my art; those who developed mathematics, physics, chemistry and the science of computation.)',
