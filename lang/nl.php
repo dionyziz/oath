@@ -20,7 +20,7 @@
             'Ik zal onthouden dat software engineering zowel *kunst* als technologie is (, en dat er schoonheid is in code.
             Ik zal niet vergeten dat programma\'s geschreven moeten worden voor *mensen*, en alleen incidenteel om door machines
             uitgevoerd te worden.)',
-            'Ik zal onthouden dat de fundamenten dan technologie in de *wetenschap* liggen(, en ik vergeet niet de bijdragen van wetenschappers
+            'Ik zal onthouden dat de fundamenten van technologie in de *wetenschap* liggen(, en ik vergeet niet de bijdragen van wetenschappers
             die mijn kunst steunden; zij die wiskunde, natuurkunde, scheikunde en informatica ontwikkelden.)',
             'Ik zal mij niet schamen om "Ik weet het niet" te zeggen(, en zal niet nalaten een andere engineer in te schakelen als het nodig is.)',
             'Wanneer ik door technologie toegang krijg tot persoonlijke gegevens, zal ik de *privacy* respecteren(, en zal de verkregen informatie
@@ -40,7 +40,7 @@
                         
                         en laat mij lang genieten van de vreugde van *innovatie*.
                         
-                        Geef me het *plezier* om om aan mijn kust
+                        Geef me het *plezier* om om aan mijn kunst
                         
                         nieuwe elementen toe te voegen die het *verbeteren*.',
         I_TAKE      => 'Zweer deze eed',
