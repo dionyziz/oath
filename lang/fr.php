@@ -16,7 +16,7 @@
             apprendre.)',
             'J\'utiliserai la technologie pour le *bien* (et pour le *progrès*
             de l\'humanité, libre de tout mal, pour l\'amélioration de la vie
-            d\'autrui)',
+            d\'autrui.)',
             'Je n\'utiliserai pas mon savoir pour un profit injuste(, financier
             ou d\'un autre genre. Je n\'affirmerai pas que l\'usage d\'une
             technologie soit nécessaire si tel n\'est pas le cas, mais
@@ -39,7 +39,7 @@
             n\'échouerai à quérir un autre ingénieur fût-ce-t-il besoin.)',
             'Lorsque via la technologie j\'obtiens l\'accès à des données
             privées, je respecterai cette *vie privée*( et ne commettrai pas
-            d\'abus avec les informations disponibles)',
+            d\'abus avec les informations disponibles.)',
             'Je garderai à l\'esprit en tant qu\'ingénieur qu\'avec mes
             capacités et mon pouvoir vient *l\'obligation*( de *créer* et de
             rendre la vie de mes camarades humains meilleure.)'
