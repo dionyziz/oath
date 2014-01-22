@@ -14,12 +14,12 @@ h1 {
 ul.oath {
     border-top: 2px solid #dbd5b7;
     border-bottom: 2px solid #dbd5b7;
-    background-color: #edebd5;
+    background-color: #faf7e9;
     background-image: -webkit-gradient(
         linear,
         left bottom,
         left top,
-        color-stop(0.09, #f9f8f2),
+        color-stop(0.09, #faf7e9),
         color-stop(0.55, #ebe8da)
     );
     background-image: -moz-linear-gradient(
@@ -110,7 +110,7 @@ a.cc:hover img {
 .footer ul {
     list-style: none;
     padding: 0;
-    margin: 0 0 20px 0;
+    margin: 20px 0 20px 0;
 }
 .footer ul li {
     display: inline;
@@ -118,10 +118,20 @@ a.cc:hover img {
     margin: 0;
 }
 .footer a {
-    color: #999;
+    color: #427fed;
+    text-decoration: none;
 }
 .footer a:hover {
     color: #333;
+    text-decoration: underline;
+}
+.footer a:visited {
+    color: #6f32ad;
+}
+.footer a:active {
+    color: white;
+    background-color: #427fed;
+    text-decoration: none;
 }
 .footer li:after {
     content: "|";
