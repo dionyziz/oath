@@ -1,6 +1,4 @@
 <?php
-    include 'header.php';
-    
     $langs = array(
         'en' => 'English',
         'el' => 'Ελληνικά',
@@ -67,7 +65,7 @@
             
             <div class="footer">
                 <a class="cc" rel="license" href="https://creativecommons.org/licenses/by/3.0/" title="<?= $_[ I_CC ] ?>">
-                    <img alt="<?= $_[ I_CC ] ?>" src="https://i.creativecommons.org/l/by/3.0/80x15.png" />
+                    <img alt="<?= $_[ I_CC ] ?>" src="cc.png" />
                 </a>
                 <ul><?php
                     foreach ( $langs as $code => $language ):
