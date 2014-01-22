@@ -11,7 +11,8 @@
         'nl' => 'Nederlands',
         'fr' => 'Français',
         'es' => 'Español',
-        'ar' => 'العربية'
+        'ar' => 'العربية',
+        'hi' => 'हिन्दी'
     );
     $params = explode( '?', $_SERVER[ 'REQUEST_URI' ] );
     if ( isset( $params[ 1 ] ) && isset( $langs[ $params[ 1 ] ] ) ) {
@@ -35,8 +36,10 @@
         <meta name="description" content="The oath of a software engineer to respect knowledge, people, and ethics." />
         <link type="text/css" rel="stylesheet" href="typography.css" />
         <?php
-        if ( $lang == 'ar' ) {
-          ?><link type="text/css" rel="stylesheet" href="typography_rtl.css" /><?php
+        switch ( $lang ) {
+            case 'ar':
+            case 'hi':
+                ?><link type="text/css" rel="stylesheet" href="typography_rtl.css" /><?php
         }
         ?>
         <link rel="shortcut icon" href="script.png" />
