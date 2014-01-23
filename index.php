@@ -36,7 +36,6 @@
         <?php
         switch ( $lang ) {
             case 'ar':
-            case 'hi':
                 ?><link type="text/css" rel="stylesheet" href="typography_rtl.css" /><?php
         }
         ?>
