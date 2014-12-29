@@ -10,7 +10,8 @@
         'fr' => 'Français',
         'es' => 'Español',
         'ar' => 'العربية',
-        'hi' => 'हिन्दी'
+        'hi' => 'हिन्दी',
+        'pt' => 'Português'
     );
     $params = explode( '?', $_SERVER[ 'REQUEST_URI' ] );
     if ( isset( $params[ 1 ] ) && isset( $langs[ $params[ 1 ] ] ) ) {
