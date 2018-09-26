@@ -2,27 +2,27 @@
     return array( 
         I_TITLE => 'Der Eid', 
         I_SWEAR => 'Ich schwöre,', 
-        I_INTRO => 'laut meiner *Fähigkeit* und meinem *Urteilsvermögen*
+        I_INTRO => 'entsprechend meiner *Fähigkeiten* und meines *Urteilsvermögens*
          
                     so gut ich nur kann, 
                      
                     diesem Eid und Verpflichtung Folge zu leisten:', 
         I_OATH  => array( 
-            'Ich werde das *Wissen* der Menschen deren Schritte ich folge respektieren.( Und deren die mich belehrt und mir geholfen haben. Und Derjenigen, die gerne dieses Wissen teilen mit den nächsten die folgen werden.
-            Sowie es andere mit mir geteilt haben. Ich werde immer daran denken: *"Das Wissen darf nicht geheim gehalten werden"*, besonders für diejenigen die wirklich lernen wollen.)', 
-            'Ich werde Technologie für das *Gute* nutzen( und für den *Fortschritt* der Menschheit, und zur Verbesserung des menschlichen Lebens, gänzlich bereinigt von dem Bösen.)', 
-            'Ich werde mein Wissen nicht zu meinem eigenen unlauteren Vorteil benutzen(, finanzieller oder anderer Art. Ich werde nie behaupten dass Technologie  
-            dort eingesetzt werden muss, wo sie nicht gebraucht wird. Sondern da, wo nur *richtige* Probleme gelöst werden müssen. Frei von vorsätzlichem Unrecht.)', 
-            'Ich werde immer daran denken dass Technologie fortlaufend Dinge *verbessern* kann ( und ich werde nie aufhören zu lernen. Die Aufgabe meines Lebens  
-            wird die ständige *Selbst-Verbesserung* sein.)', 
-            'Ich werde immer daran denken dass es eine *Kunst* ist Software und Technologie zu entwickeln (, und sie existiert, diese Schönheit im Code. Ich 
-            werde nie vergessen dass Programme dafür geschrieben worden sind, um von *Menschen* gelesen zu werden, und nur nebenbei auf Maschinen laufen.)', 
-            'Ich werde immer daran denken dass die Fundamente der Technologie in der *Wissenschaft* liegen(, und ich werde nie den Beitrag aller Wissenschaftler vergessen, die 
+            'Ich werde das *Wissen* derer Menschen in deren Fußstapfen ich trete respektieren, (sowie derer die mich belehrt und mir geholfen haben. Ich dieses Wissen mit Freuden mit der nächsten Generation teilen,
+            so wie es andere mit mir geteilt haben. Ich werde immer daran denken, dass *Wissen darf nicht geheim gehalten werden darf* von denjenigen die lernen wollen.)', 
+            'Ich werde Technologie für das *Gute* nutzen; (für den *Fortschritt* der Menschheit, frei von allem Bösen, um das Leben der Menschen zu verbessern.)', 
+            'Ich werde mein Wissen nicht zu meinem eigenen unlauteren Vorteil benutzen, (weder finanzieller noch anderer Art. Ich werde nie behaupten, dass Technologie  
+            dort eingesetzt werden muss, wo sie nicht gebraucht wird. Sondern nur da, wo *echte* Probleme gelöst werden müssen. Frei von vorsätzlichem Unrecht.)', 
+            'Ich werde immer daran denken, dass sich Technologie fortlaufend *verbessert* (und werde nie aufhören zu lernen. Mein Leben stelle ich daher in den Dienst meiner
+            ständigen *Selbst-Verbesserung*.)', 
+            'Ich werde immer daran denken, dass Software zu entwickeln sowohl Technik als auch *Kunst* ist, (und das ich diese Schönheit in Code abbilden kann. Ich 
+            werde nie vergessen, dass Programme dafür geschrieben werden, um von *Menschen* gelesen zu werden und nur nebenbei auch auf Maschinen laufen.)', 
+            'Ich werde immer daran denken, dass die Fundamente der Technologie in der *Wissenschaft* liegen, (und ich werde nie den Beitrag aller Wissenschaftler vergessen, die 
             meine Kunst unterstützt haben; Deren die Mathematik, Physik, Chemie und Informatik entwickelt haben.)', 
-            'Ich werde mich nie schämen "Ich weiss es nicht" zu sagen(, und werde es nie unterlassen die Hilfe eines anderen Ingenieurs aufzufinden, insofern ich diese benötige.)', 
-            'Falls ich - durch Technologie - Zugriff auf private Daten ergattere, werde ich die *Privatsphäre* respektieren(, sowie die Information nicht missbrauchen.)', 
-            'Ich werde immer daran denken, dass mit meiner Fähigkeit und Kraft für mich *Verpflichtung* entsteht (zum 
-            *Erschaffen* und damit das Leben meiner Mitmenschen besser zu gestalten.)' 
+            'Ich werde mich nie schämen „Ich weiß es nicht“ zu sagen, (und werde es nie unterlassen die Hilfe eines anderen Ingenieurs anzufordern, wenn ich diese benötige.)', 
+            'Wenn ich durch Technologie Zugriff auf private Daten erhalte, werde ich die *Privatsphäre* respektieren (und diese Information nicht missbrauchen.)', 
+            'Ich werde immer daran denken, dass mit meinen Fähigkeiten und meiner Macht auch *Verantwortung* entsteht (um Dinge zu 
+            *Erschaffen* und das Leben meiner Mitmenschen zu verbessern.)' 
         ), 
         I_CC => 'Creative Commons Lizenz', 
         I_EPILOGUE0 => 'Ich werde diesen Eid nicht brechen, 
@@ -31,10 +31,10 @@
                          
                         möge ich während meines Lebens *respektiert* werden
                          
-                        und danach mit *Zuneigung* in Erinnerung bleiben.', 
+                        und danach mit *Wohlwollen* in Erinnerung bleiben.', 
         I_EPILOGUE1 => 'Möge ich die *besten Traditionen* meiner Kunst bewahren 
          
-                        und die Gestaltung der *Innovation* geniessen. 
+                        und lange die Freuden der *Innovation* geniessen. 
                          
                         Und möge ich *Freude* daran empfinden meiner Kunst 
                          
